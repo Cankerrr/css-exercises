@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.general-class{
+    background-color: rgb(245, 177, 169);
+    font-family: Verdana, 'DeJavu Sans', sans-serif;
+}
+
+#first-id{
+    color: rgb(7, 35, 247);
+    font-size: 36px;
+}
+
+.general-class.unique-class{
+    font-size: 24px;
+}
+
+#second-id{
+    background-color: rgb(153, 232, 146);
+    font-size: 24px;
+    font-weight: bold;
+}
