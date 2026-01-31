@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.button-general{
+    font-size: 28px;
+    font-family: Helvetica,  'Times New Roman', sans-serif;
+}
+
+.first-unique{
+    background-color: black;
+    color: white;
+}
+
+.second-unique{
+    background-color: yellow;
+}
